@@ -1,5 +1,4 @@
 ## 🛍️ Amazon Review Sentiment Classifier for Retail Insights
-**📅 Duration:** Jul 2024 – Sept 2024  
 **📍 Institution:** UTA  
 
 A sentiment analysis engine built to classify over 500,000 Amazon product reviews.
